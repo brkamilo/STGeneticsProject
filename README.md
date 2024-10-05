@@ -11,3 +11,5 @@ Web API
 
 	- Endpoint Order:
 		- Get Animal purchase in the Table and return a Json informing the Id and the total purchase amount.
+ 
+ - Database attached. 
